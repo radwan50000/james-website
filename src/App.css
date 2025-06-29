@@ -1,0 +1,33 @@
+@import 'tailwindcss';
+
+*{
+  box-sizing: border-box;
+}
+
+.fading{
+  animation: fade 1s forwards;
+}
+
+.appearing{
+  animation: appear 1s forwards;
+}
+
+@keyframes fade{
+  from{
+    opacity: 1;
+  }
+  to{
+    opacity: 0;
+
+  }
+}
+
+@keyframes appear{
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+
+  }
+}
