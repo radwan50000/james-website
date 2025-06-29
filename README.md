@@ -11,4 +11,4 @@
 <h2>Website Preview </h2>
 <img src='./src/assets/screen.png' alt='website image' style='width: 100%;'>
 
-<h3 style='display: inline;width: fit-content;'> website link -> </h3> <a target='_blank' href='https://musical-bubblegum-933125.netlify.app/'> James Website</a>
+<span style='display: inline;width: fit-content;font-size: 22px;'> website link -> </span> <a target='_blank' href='https://musical-bubblegum-933125.netlify.app/'> James Website</a>
