@@ -10,3 +10,5 @@
 
 <h2>Website Preview </h2>
 <img src='./src/assets/screen.png' alt='website image' style='width: 100%;'>
+
+<h3 style='display: inline;'> website link -> </h3> <a href='https://musical-bubblegum-933125.netlify.app/'> James Website</a>
