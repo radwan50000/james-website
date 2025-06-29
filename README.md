@@ -1,11 +1,11 @@
 <h1 style='font-weight: bold;'>James Website <h1>
 <h3> This website is using the following Technology <h3>
 <ul>
-    <li>HTML <img src='./src/assets/html-5.png' alt='html image' style='margin-left: 16px;width: 10px;'/> </li>
-    <li>CSS  <img src='./src/assets/css-3.png' alt='css image' style='margin-left: 8px;width: 30px;'/> </li>
-    <li>JavaScript  <img src='./src/assets/js.png' alt='javascript image' style='margin-left: 8px;width: 30px;'/> </li>
-    <li>React  <img src='./src/assets/react.svg' alt='React image' style='margin-left: 8px;width: 30px;'/> </li>
-    <li>Tailwind CSS  <img src='./src/assets/Tailwind CSS.png' alt='Tailwind CSS image' style='margin-left: 8px;width: 30px;'/> </li>
+    <li>HTML <img src='./src/assets/html-5.png' alt='html image' style='margin-left: 16px;width: 20px;'/> </li>
+    <li>CSS  <img src='./src/assets/css-3.png' alt='css image' style='margin-left: 8px;width: 20px;'/> </li>
+    <li>JavaScript  <img src='./src/assets/js.png' alt='javascript image' style='margin-left: 8px;width: 20px;'/> </li>
+    <li>React  <img src='./src/assets/react.svg' alt='React image' style='margin-left: 8px;width: 20px;'/> </li>
+    <li>Tailwind CSS  <img src='./src/assets/Tailwind CSS.png' alt='Tailwind CSS image' style='margin-left: 8px;width: 20px;'/> </li>
 </ul>
 
 <h2>Website Preview </h2>
