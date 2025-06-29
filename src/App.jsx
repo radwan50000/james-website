@@ -26,7 +26,7 @@ function Header(){
   return (
     <>
       <header id='header' className='w-full h-dvh bg-[url(./assets/snow-bg.jpg)] bg-size-[140%] bg-center flex flex-col justify-between items-center overflow-hidden relative max-xl:bg-size-[250%]'>
-        <nav  className="w-full px-30 py-5 bg-[#0C3C60] flex justify-between items-center fixed z-50">
+        <nav  className="w-full px-30 py-5 bg-[#0C3C60] flex justify-between items-center z-50">
           <h1 className='text-white font-light font-[cairo] text-2xl cursor-default'>
             JAMES CONSULTING
           </h1>
